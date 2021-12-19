@@ -1,0 +1,440 @@
+Uri: https://www.holycrossipms.com/
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\index.htm
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/img/favicon.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/nice-select.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\nice-select.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/flaticon.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/animate.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\animate.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/slicknav.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\slicknav.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/index.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\index.html
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/course.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\course.html
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/admission.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\admission.html
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/gallery.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\gallery.html
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/staff.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\staff.html
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/about.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\about.html
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/contact.html
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\contact.html
+Content Type: text/html
+
+Uri: http://grapeshms.com/
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.holycrossipms.com/img/brand/logopms.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\brand\logopms.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/about/1.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\about\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/about/2.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\about\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/about/princi.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\about\princi.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/brand/logo.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\brand\logo.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/js/vendor/modernizr-3.5.0.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\vendor\modernizr-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/vendor/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\vendor\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/scrollIt.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\scrollIt.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.scrollUp.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/nice-select.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.slicknav.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.slicknav.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/plugins.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/main.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\fontawesome-webfont.woff2
+Content Type: font/x-woff2
+
+Uri: https://www.holycrossipms.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://www.holycrossipms.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.holycrossipms.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.holycrossipms.com/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\themify.woff
+Content Type: font/x-woff
+
+Uri: https://www.holycrossipms.com/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\themify.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.holycrossipms.com/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://www.holycrossipms.com/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\Flaticon.woff2
+Content Type: font/x-woff2
+
+Uri: https://www.holycrossipms.com/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\Flaticon.woff
+Content Type: font/x-woff
+
+Uri: https://www.holycrossipms.com/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.holycrossipms.com/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700&display=swap
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/img/banner/slider1.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\slider1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/slider2.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/slider3.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\slider3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/bradcam.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bradcam.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/banner/bradcam2.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bradcam2.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/banner/bradcam3.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bradcam3.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/banner/emergency-1.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\emergency-1.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/banner/emergency-2.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\emergency-2.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/primary-check.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\primary-check.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/success-check.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\success-check.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/primary-radio.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\primary-radio.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/success-radio.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\success-radio.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/css/gijgo.css
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\css\gijgo.css
+Content Type: text/css
+
+Uri: https://www.holycrossipms.com/img/department/dm1.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\dm1.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/dm2.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\dm2.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/dm3.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\dm3.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/banner/bannerin.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bannerin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/bannerfe.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bannerfe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/bannerpa.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bannerpa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/bannerh.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bannerh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/banneri.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\banneri.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/banner/bannerj.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\bannerj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/img/brand/certificate.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\brand\certificate.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/1.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\1.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/2.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\2.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/6.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\6.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/7.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\7.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/10.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\10.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/8.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\8.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/9.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\9.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/3.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\3.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/4.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\4.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/elements/5.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\elements\5.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/one.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\one.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/three.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\three.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/l1.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\l1.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/l2.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\l2.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/img/department/l3.png
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\department\l3.png
+Content Type: image/png
+
+Uri: https://www.holycrossipms.com/js/popper.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/ajax-form.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\ajax-form.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/wow.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/gijgo.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\gijgo.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/contact.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\contact.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.ajaxchimp.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.form.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/js/mail-script.js
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\js\mail-script.js
+Content Type: application/javascript
+
+Uri: https://www.holycrossipms.com/img/banner/about.jpg
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\img\banner\about.jpg
+Content Type: image/jpeg
+
+Uri: https://www.holycrossipms.com/fonts/gijgo-material.eot?235541
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\gijgo-material.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.holycrossipms.com/fonts/gijgo-material.ttf?235541
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\gijgo-material.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.holycrossipms.com/fonts/gijgo-material.woff?235541
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\gijgo-material.woff
+Content Type: font/x-woff
+
+Uri: https://www.holycrossipms.com/fonts/gijgo-material.svg?235541
+File Name: C:\Downloaded Web Sites\www.holycrossipms.com\fonts\gijgo-material.svg
+Content Type: image/svg+xml
+
