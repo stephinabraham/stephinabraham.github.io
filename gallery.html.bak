@@ -2,17 +2,16 @@
 <html class="no-js" lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Holy Cross</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    <!-- Place favicon.ico in the root directory -->
-
-    <!-- CSS here -->
+	<!-- <link rel="manifest" href="site.webmanifest"> -->
+	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+	<!-- Place favicon.ico in the root directory -->
+  <!-- CSS here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
@@ -27,9 +26,9 @@
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 
-<body style="background-color:#D6DBDF ">
-  
-   <!-- header-start -->
+<body>
+
+ <!-- header-start -->
     <header>
         <div class="header-area ">
             <div class="header-top_area">
@@ -70,10 +69,10 @@
                                         <li><a href="index.html">Home</a></li>
                                         <li><a href="course.html">Courses</a></li>
                                         <li><a href="admission.html">Admission</a></li>                                        
-                                        <li> <a href="gallery.html">Gallery</a></li>
+                                        <li> <a class="active" href="gallery.html">Gallery</a></li>
                                         <li><a href="staff.html">Staffs</a></li> 
                                         <li><a href="about.html">About us</a></li>
-                                        <li><a class="active" href="contact.html">Contact</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -88,98 +87,161 @@
     </header>
     <!-- header-end -->
 
-   
+
+    <!-- bradcam_area_start  -->
+    
 
     
-    <div class="bradcam_area breadcam_bg_2 bradcam_overlay">
+    <div class="bradcam_area breadcam_bg bradcam_overlay">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text">
-                        <h3>contact</h3>
-                        <p><a href="index.html">Home /</a> contact</p>
+                        <h3>Gallery</h3>
+                        <!--<p><a href="index.html">Home /</a> Element</p>-->
                     </div>
+
                 </div>
             </div>
         </div>
     </div>
-  
-
+    
     
     <!-- bradcam_area_end  -->
-    <!-- ================ contact section start ================= -->
-    <section class="contact-section">
-        <div class="container">
-            
-
-            <div class="row">
-                <div class="col-12">
-                    <h2 class="contact-title">Get in Touch</h2>
-                </div>
-                <div class="col-lg-8">
-                    <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" placeholder=" Name" style="border:groove"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input class="form-control valid" name="name" id="name" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" placeholder="Enter your name" style="border:groove">
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email" style="border:groove">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Enter Subject" style="border:groove">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group mt-3">
-                            <button type="submit" class="button button-contactForm boxed-btn" style="color:darkblue">Send</button>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-lg-3 offset-lg-1">
-                    <div class="media contact-info">
-                        <span class="contact-info__icon"><i class="ti-home"></i></span>
-                        <div class="media-body">
-                            <h3>
-                                Holy Cross Institute of Paramedical Sciences<br>
-                                Housing Board, Jyothinagar<br>Chikkamagaluru - 577102
-                                Karnataka, India
-                            </h3>
-                            <p></p>
-                        </div>
-                    </div>
 
 
-                    <div class="media contact-info">
-                        <span class="contact-info__icon"><i class="ti-tablet"></i></span>
-                        <div class="media-body">
-                            <h3>0826220074(Office)</h3>
-                            <h3>Mob: 9448952086(Principal)</h3>
-                            <p>Mon to Fri 9am to 6pm</p>
-                        </div>
-                    </div>
-                    <div class="media contact-info">
-                        <span class="contact-info__icon"><i class="ti-email"></i></span>
-                        <div class="media-body">
-                            <h3>hcipms@gmail.com</h3>
-                            <p>Send us your query anytime!</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+    <div class="section-top-border">
+        <h3 style="margin-left:2%">Image Gallery</h3>
+        <div style="background-color:deepskyblue;height:2px;width:8%;margin-left:2%;">
+
         </div>
-    </section>
-    <!-- ================ contact section end ================= -->
-    <!-- footer start -->
+        <div class="row gallery-item" style="margin-left:5%;margin-right:5%">
+
+
+            <div class="col-md-4">
+                <a href="img/brand/certificate.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/brand/certificate.png);"></div>
+                </a>
+            </div>
+
+            <div class="col-md-4">
+
+                <a href="img/about/1.jpg" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/about/1.jpg);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/elements/1.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/1.png);"></div>
+                </a>
+            </div>
+
+
+
+
+            <div class="col-md-4">
+                <a href="img/elements/2.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/2.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/elements/6.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/6.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/elements/7.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/7.png);"></div>
+                </a>
+            </div>
+
+
+
+            <div class="col-md-4">
+                <a href="img/elements/10.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/10.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/elements/8.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/8.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/elements/9.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/9.png);"></div>
+                </a>
+            </div>
+
+
+
+            <div class="col-md-6">
+                <a href="img/elements/3.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/3.png);"></div>
+                </a>
+            </div>
+
+            <div class="col-md-6">
+                <a href="img/elements/4.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/4.png);"></div>
+                </a>
+            </div>
+
+
+
+            <div class="col-md-4">
+                <a href="img/elements/5.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/elements/5.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/department/one.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/department/one.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/department/three.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/department/three.png);"></div>
+                </a>
+            </div>
+
+
+
+
+            <div class="col-md-4">
+                <a href="img/department/l1.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/department/l1.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/department/l2.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/department/l2.png);"></div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="img/department/l3.png" class="img-pop-up">
+                    <div class="single-gallery-image" style="background: url(img/department/l3.png);"></div>
+                </a>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+     <!-- footer start -->
     <footer class="footer">
         <div class="footer_top">
             <div class="container">
@@ -241,11 +303,11 @@
 
                                 <li><a href="index.html">Home</a></li>
                                 <li><a href="course.html">Courses</a></li>
-                                <li> <a href="gallery.html">Gallery</a></li>
+                                <li> <a class="active" href="gallery.html">Gallery</a></li>
                                 <li><a href="staff.html">Staffs</a></li> 
                                 <li><a href="admission.html">Admission</a></li>
                                 <li><a href="about.html">About us</a></li>
-                                <li><a class="active" href="contact.html">Contact</a></li>
+                                <li><a href="contact.html">Contact</a></li>
                                 
                             </ul>
                         </div>
@@ -275,7 +337,7 @@
                         <p class="copy_right text-center">
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy;
-                            <script>document.write(new Date().getFullYear());</script> Designed by <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.htm" target="_blank">Stephin Abraham</a>
+                            <script>document.write(new Date().getFullYear());</script> Designed by <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index-1.htm" target="_blank">Stephin Abraham</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
@@ -285,7 +347,7 @@
     </footer>
     <!-- footer end  -->
     <!-- link that opens popup -->
-   
+  
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
@@ -330,5 +392,4 @@
         });
     </script>
 </body>
-    
-    </html>
+</html>

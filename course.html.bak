@@ -82,8 +82,8 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a href="index.html">Home</a></li>
-                                        <li><a href="course.html">Courses</a></li>
-                                        <li><a class="active" href="admission.html">Admission</a></li>                                        
+                                        <li><a class="active" href="course.html">Courses</a></li>
+                                        <li><a href="admission.html">Admission</a></li>                                        
                                         <li> <a href="gallery.html">Gallery</a></li>
                                         <li><a href="staff.html">Staffs</a></li> 
                                         <li><a href="about.html">About us</a></li>
@@ -104,13 +104,15 @@
     <!-- bradcam_area_start  -->
     
 
-    <div class="bradcam_area breadcam_bg_2 bradcam_overlay">
+    
+    <div class="bradcam_area breadcam_bg bradcam_overlay">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text">
-                        <h3>Admission Details</h3>
-                        <!--<p><a href="index.html">Home /</a> </p>-->
+                        <h3>HOLY CROSS PMS</h3><br>
+                        <h2 style="color:crimson" class="blink">COURSE DETAILS</h2>
+                        <!--<p><a href="index.html">Home /</a> Services</p>-->
                     </div>
                 </div>
             </div>
@@ -118,42 +120,131 @@
     </div>
     
 
+    
+   
+    <!-- offers_area_start -->
     <div class="our_department_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-55">
                         <h3>
-                            General rules and Regulations after admission
+                            Courses Offered
                         </h3>
-
-                        <br>
-
-
-
                         <p>
-                            The new- batch will be welcomed by the senior students and staff in an amicable manner. Raging is strictly prohibited and if done punishable. On the other hand new-comers welcome function will be arranged to get familiarised with all and the Institution.
-                            Students are expected to maintain dignity and to behave with discipline to maintain the high standard of medical profession.
-                            It is mandatory to wear uniform, which will be provided from Institute on payment. Uniform should be kept neat and tidy. Male students should use black shoes; female students can use simple ear studs only in the class or on duty. They are not permitted to wear other ornaments.
-                            Students are expected to be regular and punctual in the classes and should maintain a minimum of 80% attendance as required by the Para Medical Board. Students are permitted to go on leave only in the declared holidays. In case of emergency, including medical, proper intimation is to be provided.
-                            Mobile phones use and possession in the class and within the Institute is prohibited.
-                            Students shouldn`t organize any parties, tours, or get together without the knowledge of the Principal/course in charge.
-                        </p>
+                            <br>
+                            <div style="background-color:dodgerblue;color:white;text-align:center;height:auto;width:100%;padding:10px 0px;">
+                                <a href="#course" style="text-decoration:none; color:white;">
+                                    DMLT – Diploma in Medical Laboratory Technology. Intake capacity of students 20(16+4)<br>
+                                </a>
+                            </div><br>
+                            <div style="background-color:dodgerblue;color:white;text-align:center;height:auto;width:100%;padding:10px 0px;">
+                                <a href="#" style="text-decoration:none; color:white;">
+                                    DMXT – Diploma in X-ray Technology.  Intake capacity of students 20 (16+4)<br>
+                                </a>
+                            </div><br>
+
+                            <div style="background-color:;color:gray;text-align:center;height:auto;width:100%;font-weight:600">
+
+                                Two years for PUC passed with science subject which includes Biology. Three year for SSLC and for all PUC passed or failed with non science subject. In the three year course, in first year basic Science and English will be taught. There will be annual exam after each year conducted by Para Medical Board.
+
+                            </div>
 
 
 
 
-
-
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="img/department/dm1.png" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="#">D.M.L.T CLASS</a></h3>
+                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <a href="#" class="learn_more">Learn More</a>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="img/department/dm2.png" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="#">D.M.I.T ClASS</a></h3>
+                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <a href="#" class="learn_more">Learn More</a>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="img/about/1.jpg" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="#">PRACTICALS</a></h3>
+                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <a href="#" class="learn_more">Learn More</a>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="img/about/2.jpg" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="#">PRACTICALS</a></h3>
+                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <a href="#" class="learn_more">Learn More</a>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="img/department/dm3.png" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3>
+                                <a href="#">
+                                    PROVINCIAL VISITAION
+                                </a>
+                            </h3>
+                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <a href="#" class="learn_more">Learn More</a>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="img/about/2.jpg" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="#">PRACTICALS</a></h3>
+                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
+                            <a href="#" class="learn_more">Learn More</a>-->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <!-- offers_area_end -->
 
 
 
-   
+    <div id="course">
+        
+
+        </div>
 
         <!-- business_expert_area_start  -->
 
@@ -164,17 +255,16 @@
                         <div class="col-xl-12">
                             <ul class="nav" id="myTab" role="tablist">
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Eligibility</a>
+                                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Internship</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Application Procedure</a>
+                                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Fees</a>
                                 </li>
-
-
                                 <li class="nav-item">
-                                    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Essential Documents</a>
+                                    <a class="nav-link" id="par-tab" data-toggle="tab" href="#par" role="tab" aria-controls="par" aria-selected="false">Role Of Parents</a>
                                 </li>
+
                             </ul>
                         </div>
                     </div>
@@ -196,10 +286,10 @@
                                         <div class="icon">
                                             <!--<i class="flaticon-first-aid-kit"></i>-->
                                         </div>
-                                        <h3>Minimum 50% marks .  Age limit 17-35 years.</h3>
+                                        <h3>Mandatory Internship</h3>
                                         <p>
                                              
-Admission is open to all candidates, who have passed PUC or SSLC based purely on merit. Preference will be given to those coming from rural areas of Karnataka. Candidates will be called for an interview on a specific date which will be announced and conducted by selection committee. A written test also will be conducted on that day in English based on general knowledge. List of the selected candidates will be displayed on the same day.
+As per rule of Paramedical Board a 3 months internship is compulsory after passing the theory and practical examination. After the completion of internship only a student is eligible to get the course completion Certificate. The management will decide the place of their internship. No stipend will be given during the period of internship. The decision of the Principal/ Management in all matters shall be final and binding on all the students. The Management reserves the right to change the rules and regulations from time to time as required.
 
 
                                         </p>
@@ -207,7 +297,7 @@ Admission is open to all candidates, who have passed PUC or SSLC based purely on
                                 </div>
                                 <div class="col-xl-6 col-md-6">
                                     <div class="business_thumb">
-                                        <img src="img/banner/bannerh.jpg" alt="">
+                                        <img src="img/banner/bannerin.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -216,58 +306,41 @@ Admission is open to all candidates, who have passed PUC or SSLC based purely on
                             <div class="row align-items-center">
                                 <div class="col-xl-6 col-md-6">
                                     <div class="business_info">
-                                        <div class="icon">
-                                            <!--<i class="flaticon-first-aid-kit"></i>-->
-                                        </div>
-                                        <h3>Application procedure</h3>
+                                        <h3>Fee Payment</h3>
                                         <p>
-                                            Prescribed application form can be obtained from Holy Cross Institute of Paramedical Sciences on payment of Rs.300/- plus Rs. 50/- if required to be send by post. Duly filled application along with enclosures to be handed over to or send to:
-                                        <p>
-                                            <br> Holy Cross Institute of Paramedical Sciences<br>
-                                            Housing Board, Jyothinagar<br>
-                                            Chikkamagaluru -577102  karnataka State
+                                            Total annual fees should be paid on the day of admission. These fees are non-refundable. Second and third year annual fees should be paid by 31st January of that academic year. Fees structure is subject to change.
                                         </p>
-                                        
+                                      
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-md-6">
                                     <div class="business_thumb">
-                                        <img src="img/banner/banneri.jpg" alt="">
+                                        <img src="img/banner/bannerfe.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                        <div class="tab-pane fade" id="par" role="tabpanel" aria-labelledby="par-tab">
                             <div class="row align-items-center">
                                 <div class="col-xl-6 col-md-6">
                                     <div class="business_info">
-                                        <div class="icon">
-                                            <!--<i class="flaticon-first-aid-kit"></i>-->
-                                        </div>
-                                        <h3>Essential Documents</h3>
+                                        <h3>Role Of Parents</h3>
                                         <p>
-                                            Completed application form should reach the office with the attested copies of the following. 
-<br>1. SSLC mark sheet – 2 copies. 
-<br>2. PUC/ Plus Two/ Intermediate marks sheet – 2 copies  
-<br>3. Certificates of higher qualification/ Degree/ Training/ computer etc. if any 
-<br>4. Transfer Certificate from the school/ college last attended. 
-<br>5. Birth Certificate. 
-<br>6. Cast and income Certificate. 
-<br>7. Medical fitness Certificate from a Registered Medical practitioner not below the rank of MBBS. 
-<br>8 .Character and Conduct Certificate from the school/ College you have studied. 
-<br>9. Recent Passport size photographs –6.
-
+                                            We welcome the Parents to come and meet the staff and their wards whenever it is convenient for them. 
+Parents can contact the Principal/management to know their progress of their wards. 
+Parents meeting will be arranged twice a year and it is mandatory for the parents to participate in their meeting.
 
                                         </p>
+                                      
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-md-6">
                                     <div class="business_thumb">
-                                        <img src="img/banner/bannerj.jpg" alt="">
+                                        <img src="img/banner/bannerpa.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>                        
                     </div>
                 </div>
             </div>
@@ -275,37 +348,6 @@ Admission is open to all candidates, who have passed PUC or SSLC based purely on
     
 
  
-
-
-  <div class="our_department_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-55">
-                        <h3>
-                            Food And Accomodation
-                        </h3>
-
-                       
-
-
-
-                        <p>
-                           Limited accommodation for some students on first come first serve basis will be provided. Others can seek admission in other hostels available in Chikkamagaluru. Hospital canteen can be used for food. 
-                        </p>
-
-
-
-
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
     <!-- footer start -->
     <footer class="footer">
         <div class="footer_top">
@@ -367,10 +409,10 @@ Admission is open to all candidates, who have passed PUC or SSLC based purely on
 
 
                                 <li><a href="index.html">Home</a></li>
-                                <li><a href="course.html">Courses</a></li>
+                                <li><a class="active" href="course.html">Courses</a></li>
                                 <li> <a href="gallery.html">Gallery</a></li>
                                 <li><a href="staff.html">Staffs</a></li> 
-                                <li><a class="active" href="admission.html">Admission</a></li>
+                                <li><a href="admission.html">Admission</a></li>
                                 <li><a href="about.html">About us</a></li>
                                 <li><a href="contact.html">Contact</a></li>
                                 
@@ -402,7 +444,7 @@ Admission is open to all candidates, who have passed PUC or SSLC based purely on
                         <p class="copy_right text-center">
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy;
-                            <script>document.write(new Date().getFullYear());</script> Designed by <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.htm" target="_blank">Stephin Abraham</a>
+                            <script>document.write(new Date().getFullYear());</script> Designed by <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index-1.htm" target="_blank">Stephin Abraham</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>

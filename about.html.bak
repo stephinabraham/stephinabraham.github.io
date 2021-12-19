@@ -12,7 +12,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
-    <!-- CSS here -->
+   <!-- CSS here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
@@ -27,9 +27,9 @@
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 
-<body style="background-color:#D6DBDF ">
-  
-   <!-- header-start -->
+<body>
+
+ <!-- header-start -->
     <header>
         <div class="header-area ">
             <div class="header-top_area">
@@ -72,8 +72,8 @@
                                         <li><a href="admission.html">Admission</a></li>                                        
                                         <li> <a href="gallery.html">Gallery</a></li>
                                         <li><a href="staff.html">Staffs</a></li> 
-                                        <li><a href="about.html">About us</a></li>
-                                        <li><a class="active" href="contact.html">Contact</a></li>
+                                        <li><a class="active" href="about.html">About us</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -87,99 +87,70 @@
         </div>
     </header>
     <!-- header-end -->
-
-   
+    <!-- bradcam_area_start  -->
+    
 
     
-    <div class="bradcam_area breadcam_bg_2 bradcam_overlay">
+    <div class="bradcam_area breadcam_bg bradcam_overlay">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text">
-                        <h3>contact</h3>
-                        <p><a href="index.html">Home /</a> contact</p>
+                        <h3>About Us</h3>
+                        <!--<p><a href="index.html">Home /</a> About</p>-->
                     </div>
                 </div>
             </div>
         </div>
     </div>
-  
+    
 
     
     <!-- bradcam_area_end  -->
-    <!-- ================ contact section start ================= -->
-    <section class="contact-section">
+    <!--================Blog Area =================-->
+    <section class="blog_area single-post-area section-padding">
         <div class="container">
-            
-
             <div class="row">
-                <div class="col-12">
-                    <h2 class="contact-title">Get in Touch</h2>
-                </div>
-                <div class="col-lg-8">
-                    <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'" placeholder=" Name" style="border:groove"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input class="form-control valid" name="name" id="name" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" placeholder="Enter your name" style="border:groove">
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email" style="border:groove">
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="form-group">
-                                    <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Enter Subject" style="border:groove">
-                                </div>
-                            </div>
+                <div class="col-lg-12 posts-list">
+                    <div class="single-post">
+                        
+                        <div class="blog_details">
+                            <h2>
+                                Brief background about Holy Cross Institute of Paramedical Sciences
+                            </h2>
+                            <h3> Jyothinagar,Chikkamagaluru</h3>
+                            <br>
+                        <div class="feature-img">
+                            <img class="img-fluid" src="img/banner/about.jpg" alt="">
                         </div>
-                        <div class="form-group mt-3">
-                            <button type="submit" class="button button-contactForm boxed-btn" style="color:darkblue">Send</button>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-lg-3 offset-lg-1">
-                    <div class="media contact-info">
-                        <span class="contact-info__icon"><i class="ti-home"></i></span>
-                        <div class="media-body">
-                            <h3>
-                                Holy Cross Institute of Paramedical Sciences<br>
-                                Housing Board, Jyothinagar<br>Chikkamagaluru - 577102
-                                Karnataka, India
-                            </h3>
-                            <p></p>
-                        </div>
-                    </div>
+                            <div class="quote-wrapper">
+
+                                <div class="quotes">
 
 
-                    <div class="media contact-info">
-                        <span class="contact-info__icon"><i class="ti-tablet"></i></span>
-                        <div class="media-body">
-                            <h3>0826220074(Office)</h3>
-                            <h3>Mob: 9448952086(Principal)</h3>
-                            <p>Mon to Fri 9am to 6pm</p>
-                        </div>
-                    </div>
-                    <div class="media contact-info">
-                        <span class="contact-info__icon"><i class="ti-email"></i></span>
-                        <div class="media-body">
-                            <h3>hcipms@gmail.com</h3>
-                            <p>Send us your query anytime!</p>
+                                    The institute was established in the year 2000 under Christian Medical Association of India (CMAI). Because of technical reasons, this course was stopped in the year 2008, subsequently we obtained
+                                    the permission, after fulfilling all the formalities to start the Karnataka State Government sponsored course in Diploma In Medical Laboratory technology (DMLT) in the year 2010, and later in the year 2017, Diploma In Medical X-ray Technology (DMXT) was started.
+                                    The Institute comes under Holy Cross Hospital, Chikkamagaluru, which is administered by the Society of Sisters of the Holy Cross. It is situated about 2.5 Kms from the centre of City, in the Chikkamagaluru-kadur Road. It is a 150 bedded Hospital with all the main branches of Medicine, with a well-equipped Laboratory having fully automated chemistry analyser, blood cell counter, blood gas analyser and licensed blood bank with component separation facility. Well - experienced, qualified technologists to manage the lab and computerised X-ray department round the clock 24x7.
+
+                                 
+                                </div>
+
+                            </div>
+                           
                         </div>
                     </div>
                 </div>
+
+
+
+
+
+
             </div>
         </div>
     </section>
-    <!-- ================ contact section end ================= -->
-    <!-- footer start -->
+    <!-- welcome_docmed_area_end -->
+     <!-- footer start -->
     <footer class="footer">
         <div class="footer_top">
             <div class="container">
@@ -244,8 +215,8 @@
                                 <li> <a href="gallery.html">Gallery</a></li>
                                 <li><a href="staff.html">Staffs</a></li> 
                                 <li><a href="admission.html">Admission</a></li>
-                                <li><a href="about.html">About us</a></li>
-                                <li><a class="active" href="contact.html">Contact</a></li>
+                                <li><a class="active" href="about.html">About us</a></li>
+                                <li><a href="contact.html">Contact</a></li>
                                 
                             </ul>
                         </div>
@@ -275,7 +246,7 @@
                         <p class="copy_right text-center">
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy;
-                            <script>document.write(new Date().getFullYear());</script> Designed by <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index.htm" target="_blank">Stephin Abraham</a>
+                            <script>document.write(new Date().getFullYear());</script> Designed by <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="index-1.htm" target="_blank">Stephin Abraham</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
@@ -286,49 +257,26 @@
     <!-- footer end  -->
     <!-- link that opens popup -->
    
-    <!-- JS here -->
+   <!-- JS here -->
+      <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
+    
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
+    
     <script src="js/imagesloaded.pkgd.min.js"></script>
     <script src="js/scrollIt.js"></script>
     <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
+    
     <script src="js/nice-select.min.js"></script>
     <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
+   
     <script src="js/plugins.js"></script>
-    <script src="js/gijgo.min.js"></script>
-
-    <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
+ 
+    
 
     <script src="js/main.js"></script>
-    <script>
-        $('#datepicker').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-caret-down"></span>'
-            }
-        });
-        $('#datepicker2').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-caret-down"></span>'
-            }
-
-        });
-    </script>
 </body>
-    
-    </html>
+
+</html>
